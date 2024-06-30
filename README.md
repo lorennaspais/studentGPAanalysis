@@ -13,26 +13,14 @@ Bem-vindo ao repositório de análise de desempenho acadêmico! Aqui, mergulhei 
 
 # 🔍 Análises Realizadas
 
-📈 Estatísticas Descritivas:
-Média, mediana, desvio padrão e mais sobre o GPA.
-Histogramas coloridos para visualizar a distribuição do GPA.
+📈 Estatísticas Descritivas: Média, mediana, desvio padrão e mais sobre o GPA. Histogramas coloridos para visualizar a distribuição do GPA.
 
-💡 Análise de Correlação:
+💡 Análise de Correlação: Matriz de correlação para ver quem é amigo de quem entre as variáveis. Mapa de calor para deixar tudo mais visual.
 
-Matriz de correlação para ver quem é amigo de quem entre as variáveis.
-Mapa de calor para deixar tudo mais visual.
-
-🔧 Análise de Regressão Linear Múltipla:
-
-Descobrindo como tempo de estudo, ausências, apoio dos pais e atividades extras influenciam o GPA.
-Coeficientes, valores p e todas aquelas coisas nerds.
+🔧 Análise de Regressão Linear Múltipla: Descobrindo como tempo de estudo, ausências, apoio dos pais e atividades extras influenciam o GPA. Coeficientes, valores p e todas aquelas coisas nerds.
 
 🌟 Resultados Principais
-
 Amizades Fortes: Encontramos correlações interessantes entre o GPA e fatores como tempo de estudo, ausências e apoio dos pais.
-
-Regressão:
-
-Mais estudo e apoio dos pais = GPA mais alto.
+Regressão: Mais estudo e apoio dos pais = GPA mais alto.
 Mais ausências = GPA mais baixo (surpresa!).
 Atividades extracurriculares também ajudam a subir o GPA.
